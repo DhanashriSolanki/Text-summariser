@@ -1,0 +1,13 @@
+Repo setup in github
+Tmplate of project
+Project setup and requirement installation
+Logging,util,exception module
+Project workflows
+All component notebook experiment
+All component modular code implementation
+Training pipeline
+Prediction Pipeline and user app creation
+Final ci cd deployment on aws
+
+
+cd "/c/Users/Dhanveer Solanki/OneDrive/Documents/DHANASHRI/5th sem/AI/MINI"
